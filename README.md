@@ -17,3 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Links
+https://codesinsider.com/flutter-tabbar-tabbarview-example-tutorial/?expand_article=1
+
+https://blog.logrocket.com/flutter-tabbar-a-complete-tutorial-with-examples/
+
+https://www.freecodecamp.org/news/navigation-in-flutter/
