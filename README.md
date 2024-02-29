@@ -24,3 +24,12 @@ https://codesinsider.com/flutter-tabbar-tabbarview-example-tutorial/?expand_arti
 https://blog.logrocket.com/flutter-tabbar-a-complete-tutorial-with-examples/
 
 https://www.freecodecamp.org/news/navigation-in-flutter/
+
+## Capturas
+![image](https://github.com/DAHolguin/Act11/assets/143548047/8fa4c240-1afd-4506-adda-7d8e5a6a5796)
+![image](https://github.com/DAHolguin/Act11/assets/143548047/ecd16626-e7c5-46db-a1b9-1d5e7a2d8b7a)
+![image](https://github.com/DAHolguin/Act11/assets/143548047/719e9b36-7421-4ec7-a90b-832ef4b2962a)
+![image](https://github.com/DAHolguin/Act11/assets/143548047/e54b631c-96b9-4465-867b-c78463bbbda0)
+
+
+
